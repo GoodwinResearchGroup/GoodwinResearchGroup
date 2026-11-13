@@ -6,7 +6,7 @@ subtitle: <a href='https://unsw.edu.au'>UNSW Canberra</a> Â· School of Science Â
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: canberra-hot-air-balloons-australia_13by5.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Science</p>
