@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://GoodwinResearchGroup.github.io/GoodwinResearchGroup/sitemap.xml
