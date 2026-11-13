@@ -31,4 +31,4 @@ Welcome to the **Goodwin Research Group** at UNSW Canberra! Our group designs li
 
 Combining advanced spectroscopic techniques, X-ray crystallography, and computational analysis, we uncover how mechanical bonding and confinement govern photoswitching behaviour at the molecular level. We then translate these smart systems into practical solutions for targeted drug delivery, controlled pesticide release, and recyclable environmental remediation.
 
-**If this sounds exciting to you, send me an email!** We welcome enquiries from prospective Honours students, PhD candidates, and postdoctoral researchers interested in joining the team.
+**If this sounds exciting to you, send me an email!** We welcome enquiries from prospective Honours students, PhD and Masters candidates, and postdoctoral researchers interested in joining the team.
