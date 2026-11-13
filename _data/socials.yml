@@ -3,13 +3,13 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: rosemary_joy_goodwin.avery@unsw.edu.au # your email address
 orcid_id: 0000-0001-7821-5499
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: 4OXSgZEAAAAJ # your Google Scholar ID
 linkedin_username: rosemary-goodwin # your LinkedIn profile handle
 github_username: GoodwinResearchGroup # your GitHub username
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: UNSW
+  logo: UNSWcanberra.png # can be png, svg, jpg
+  title: UNSW Canberra
   url: https://www.unsw.edu.au/canberra/our-research/research-excellence/science-research/experimental-chemistry
