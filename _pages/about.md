@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **Goodwin Research Group** at UNSW Canberra! Our group designs light-responsive supramolecular systems and assemblies, ranging from organic and metallo-cages to mechanically interlocked molecules, to capture and release target molecules on demand. By embedding photoswitches into self-assembled and interlocked architectures, we use light as a clean, non-invasive trigger to reshape molecular cavities and switch binding affinities "on" and "off."
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Combining advanced spectroscopic techniques, X-ray crystallography, and computational analysis, we uncover how mechanical bonding and confinement govern photoswitching behaviour at the molecular level. We then translate these smart systems into practical solutions for targeted drug delivery, controlled pesticide release, and recyclable environmental remediation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**If this sounds exciting to you, send me an email!** We welcome enquiries from prospective Honours students, PhD candidates, and postdoctoral researchers interested in joining the team.
