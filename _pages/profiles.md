@@ -11,10 +11,10 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: GroupmemberWinston.jpg
-    content: about_einstein.md
+    content: about_Winston.md
     image_circular: false # crops the image to make it circular
   - align: left
     image: GroupmemberFlorence.jpg
-    content: about_einstein.md
+    content: about_Florence.md
     image_circular: false # crops the image to make it circular
 ---
