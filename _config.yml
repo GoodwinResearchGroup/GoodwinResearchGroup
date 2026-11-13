@@ -7,7 +7,7 @@ first_name: Rosemary
 middle_name: J.
 last_name: Goodwin (Avery)
 contact_note: >
-  The best way to reach the group is via my UNSW email or LinkedIn.
+  The best way to reach the group is via my UNSW emial rosemary_joy_goodwin.avery@unsw.edu.au or LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Supramolecular chemistry research group led by Dr Rosemary Goodwin at UNSW Canberra.
 footer_text: >
@@ -30,8 +30,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/stats-organization/github-stats-extended/blob/master/packages/core/src/themes/README.md
-repo_theme_dark: dark # https://github.com/stats-organization/github-stats-extended/blob/master/packages/core/src/themes/README.md
+repo_theme_light: light # https://github.com/stats-organization/github-stats-extended/blob/master/packages/core/src/themes/README.md
+repo_theme_dark: default # https://github.com/stats-organization/github-stats-extended/blob/master/packages/core/src/themes/README.md
 # Off by default: addresses are then split at build time so the HTML contains no
 # `user@host` and no `mailto:` for harvesters to scrape, and clicking one copies
 # it to the clipboard instead of opening a mail client.
