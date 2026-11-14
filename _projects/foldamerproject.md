@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Light-Driven Mechanically Interlocked Molecules for Environmental Remediation
-description: Designing light-driven, mechanically interlocked molecules to selectively capture cationic pollutants while exploring how mechanical bonding reshapes photoswitching behaviour and function.
+title: Photoswitchable Metallo-Cages & Supramolecular Assemblies
+description: Investigating how light-driven structural changes in metallo-cages and supramolecular assemblies can be used to precisely capture and release target molecules.
 img: assets/img/image_343aaace.jpg
-importance: 1
+importance: 2
 category: research projects
 related_publications: true
 ---
 
-This project designs and synthesises light-driven, mechanically interlocked molecules, such as rotaxanes, knots and catenanes, to selectively capture and remove cationic pollutants from the environment.
+This project designs and synthesises photoswitchable metallo-cages and supramolecular assemblies for the light-controlled capture and release of target molecules. Built via self-assembly, these architectures rely on dynamic, reversible non-covalent interactions to selectively bind guest substrates within their internal cavities.
 
-A central focus is uncovering how mechanical interlocking fundamentally alters the behaviour of embedded photoswitches. By confining components within an interlocked architecture, we investigate how steric and electronic constraints reshape switching kinetics, photostationary states, and thermal stability compared to simple, non-interlocked analogues.
+Using specific wavelengths of light as a clean, non-invasive trigger, we drive structural changes that alter cavity shape and binding affinity—effectively switching molecular encapsulation "on" and "off" on demand.
 
-Mastering this interplay between mechanical bonding and light responsiveness allows us to fine-tune overall molecular function. Using specific wavelengths of light as a clean, reversible trigger, these systems switch between high- and low-affinity states—enabling the targeted extraction of cationic pollutants and their controlled release for recyclable environmental remediation.
+This dynamic, stimuli-responsive control unlocks significant potential for real-world applications where precise timing and location matter. Key targets include on-demand drug delivery to reduce off-target side effects, controlled pesticide release for sustainable agriculture, and selective pollutant capture for environmental remediation.
 
 ### Key Research Objectives
-* **Synthesis of Photo-Responsive MIMs:** Designing and constructing novel rotaxanes, knots and catenanes incorporating molecular photoswitches and tailored cation-binding sites.
-* **Probing Confinement & Mechanical Effects:** Using UV-Vis spectroscopy, variable-temperature NMR, and kinetic analysis to quantify how mechanical interlocking modulates photoswitching dynamics and photostationary states.
-* **Light-Gated Pollutant Capture & Release:** Demonstrating reversible, light-triggered uptake and release of target cationic pollutants for sustainable, recyclable water treatment.
+* **Self-Assembly of Photo-Responsive Hosts:** Synthesising ligand and building-block libraries embedded with molecular photoswitches to construct discrete metallo-cages and dynamic supramolecular assemblies.
+* **Light-Modulated Cavity Geometry:** Using UV-Vis, NMR spectroscopy, X-ray crystallography and computational analysis to map how photoisomerisation reshapes internal binding pockets and switches host–guest affinity.
+* **Targeted Delivery & Remediation:** Applying light-triggered uptake and release to controlled drug delivery, smart agrochemical release, and selective environmental capture.
 
 ### Student Opportunities
-* **PhD, Masters & Honours Projects Available:** This project offers hands-on training in multistep organic synthesis, supramolecular host–guest titrations, photochemistry, and advanced spectroscopic characterisation and computational analysis. 
-* **Get in Touch:** Prospective PhD, Masters or Honours students interested in joining this project are encouraged to reach out via email to discuss available scholarships and project details.
+* **PhD, Masters & Honours Projects Available:** This project provides comprehensive training in organic ligand synthesis, coordination self-assembly, photochemistry, computational chemistry and host–guest binding studies.
+* **Get in Touch:** Prospective Honours, Masters, or PhD candidates interested in this project are welcome to get in touch via email to discuss current opportunities.
