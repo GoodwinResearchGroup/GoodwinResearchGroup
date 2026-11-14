@@ -5,7 +5,7 @@ permalink: /projects/
 description: Have a look through what our group is doing. If you'd like to hear more or collaborate get in touch!
 nav: true
 nav_order: 3
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
