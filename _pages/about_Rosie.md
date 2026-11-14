@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Rosemary (Rosie) Goodwin runs the Goodwin Research Group at UNSW Canberra, designing light-responsive supramolecular systems for controlled guest capture and release.
+Prior to joining UNSW, Rosie completed her doctoral and postdoctoral research at the Australian National University (ANU) Research School of Chemistry. Working under Nicholas White and Annie Colebatch, her research explored the design of organic cages for anion recognition in competitive aqueous media and postsynthetic metallation of these cages to form low-symmetry metallo-cage complexes for catalysis. During this time she also worked under Dan Preston studying coordination-driven self-assembly to make metallo-cages and orthogonal ligand pairings using complementary non-covalent interactions.
+At UNSW, Rosie builds on this expertise in organic synthesis, coordination chemistry, and computational analysis to engineer stimuli-responsive hosts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of the lab, Rosie enjoys cycling, hiking, ice cream, a good laugh and essentially anything creative (gardening, painting, pottery...). She has two amazing pups and some crazy budgies.
