@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Have a look through what our group is doing. If you'd like to hear more or collaborate get in touch!
 nav: true
-nav_order: 2
+nav_order: 3
 horizontal: false
 ---
 
@@ -28,7 +28,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -54,7 +54,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
