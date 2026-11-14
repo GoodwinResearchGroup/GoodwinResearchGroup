@@ -9,7 +9,7 @@ profile:
   image: canberra-hot-air-balloons-australia_13by5.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Dr Rosemary Goodwin</strong></p>
+    <p><strong>Dr Rosemary J. Goodwin</strong></p>
     <p>School of Science</p>
     <p>UNSW Canberra</p>
     <p>Canberra, ACT 2600, Australia</p>
