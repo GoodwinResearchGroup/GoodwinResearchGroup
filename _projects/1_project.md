@@ -2,7 +2,7 @@
 layout: page
 title: Light-Driven Mechanically Interlocked Molecules for Environmental Remediation
 description: Designing light-driven, mechanically interlocked molecules to selectively capture cationic pollutants while exploring how mechanical bonding reshapes photoswitching behaviour and function.
-img: assets/img/image_4174edc2.jpg
+img: assets/img/image_91af4cae.jpg
 importance: 1
 category: research projects
 related_publications: true
