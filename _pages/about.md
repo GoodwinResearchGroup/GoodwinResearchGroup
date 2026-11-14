@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[https://www.unsw.edu.au/canberra/our-research/research-excellence/science-research/experimental-chemistry]'>UNSW Canberra</a> · School of Science · Canberra, ACT, Australia
+subtitle: <a href="https://www.unsw.edu.au/canberra/our-research/research-excellence/science-research/experimental-chemistry" target="_blank">UNSW Canberra</a> · School of Science · Canberra, ACT, Australia
 
 profile:
   align: right
