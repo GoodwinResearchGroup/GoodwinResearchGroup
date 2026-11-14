@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Have a look through what our group is doing. If you'd like to hear more or collaborate get in touch!
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
